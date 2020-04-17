@@ -1,0 +1,79 @@
+#body{
+	background-image:url(https://i.pinimg.com/originals/cf/33/62/cf33624d8776e6265df5f248c52d18f4.jpg);
+	background-size:100pc, 100%, 100%;
+}
+
+
+
+#cabecera{
+	width:1350px;
+height:150px;
+border:2px solid;
+border-collapse:collapse;
+background-image:url(https://thumbs.dreamstime.com/b/fondo-abstracto-de-la-textura-del-detalle-pintura-con-pinceladas-100945515.jpg);
+background-size:aouto;
+}
+img {
+	width:150px;
+height:auto;
+border-radius:100%;
+float;right;
+}
+
+#columnaizq{
+height:450px;	
+width:350px;
+border:2px solid;
+border-collapse:collapse;
+float:left;
+background-image:url(https://img.freepik.com/foto-gratis/pintura-rigida-celeste-manchas-migas-doradas_23-2147934159.jpg?size=626&ext=jpg);
+background-size:650px;
+}
+
+
+#columnader{
+height:450px;
+width:1350px;
+border:2px solid;
+background-image:url(https://previews.123rf.com/images/liyavihola/liyavihola1701/liyavihola170100069/72181934-pintura-con-textura-resumen-painting-creative-mano-abstracto-pintado-de-fondo-pintura-%C3%A1spera-fragmento.jpg);
+background-size:110%;
+text-align:center;
+border-collapse:collapse;
+}
+
+
+.tabla th{
+border:3px solid;
+background-color:#fff;	
+text-align:center;	
+border-radius:8%;
+background-image:url(https://cdn-img.prettylittlething.com/e/b/9/e/eb9ecd56fdea9acf54fb5875bcdb4cb832a93445_cmc0941_4.jpg);
+background-size:100%;
+}
+	
+
+.tabla td{
+	border:3px solid;
+	text-align:center;
+	background-image:url(https://cdn-img.prettylittlething.com/e/b/9/e/eb9ecd56fdea9acf54fb5875bcdb4cb832a93445_cmc0941_4.jpg);
+	background-size:200%;
+	height:50px;
+width:200px;
+border-radius:8%;
+
+}
+
+	
+.clear{
+	clear:both;
+}
+	
+#pie{
+height:49px;
+width:1350px;
+border:2px solid;
+border-collapse:collapse;
+background-color:#cc99ff;
+
+}
+
